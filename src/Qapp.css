@@ -1,0 +1,33 @@
+.question-wrapper {
+  background-color:#23ca1d;
+  min-width: 150px;
+  border:3px solid rgba(17, 87, 22, 0.795);
+  margin-bottom: 20px;
+  font-Size: 28px;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.answer {
+  font-Size: 16px;
+  background-color:#790729e3;
+  border:3px solid rgba(53, 2, 6, 0.795);
+  min-width: 150px;
+  font-family: 'Franklin Gothic'
+}
+
+.button {
+  font-Size: 15px;
+  background-color:#82bbe9e3;
+  border:3px solid rgba(13, 37, 46, 0.795);
+  min-width: 80px;
+  margin-bottom: 20px;
+  font-family: 'Franklin Gothic';
+  color: #10094de3
+}
+
+.well {
+  background-color:#f758f7e3;
+  border:3px solid rgba(80, 14, 65, 0.795);
+  margin-bottom: 20px;
+  font-family: 'Franklin Gothic'
+}

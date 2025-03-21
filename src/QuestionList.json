@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the full form of DOM?",
+    "answersList": [
+      "Document Oriented Management",
+      "Document Object Module",
+      "Document Oriented Module"
+    ],
+    "correct": "Document Object Module",
+    "incorrect": ["Document Oriented Management", "Document Oriented Module"]
+  },
+  {
+    "question": "What is my favorite color?",
+    "answersList": ["Yellow", "Red", "Green"],
+    "correct": "Yellow",
+    "incorrect": ["Red", "Green"]
+  },
+  {
+    "question": "What is my favorite fruit?",
+    "answersList": ["WhitePeach", "Banana", "Strawberry"],
+    "correct": "WhitePeach",
+    "incorrect": ["Banana", "Strawberry"]
+  },
+  {
+    "question": "What is my favorite food?",
+    "answersList": ["fish", "chicken", "Strawberry"],
+    "correct": "fish",
+    "incorrect": ["chicken", "Strawberry"]
+  },
+  {
+    "question": "Everything in React is a ___",
+    "answersList": ["Module", "Component", "Package"],
+    "correct": "Component",
+    "incorrect": ["Module", "Class"]
+  },
+  {
+    "question": "ReactJS uses ___ to increase performances",
+    "answersList": [
+      "Original DOM",
+      "Virtual DOM",
+      "Both Original and Virtual DOM"
+    ],
+    "correct": "Virtual DOM",
+    "incorrect": ["Original DOM", "Both Original and Virtual DOM"]
+  }
+]
